@@ -1,0 +1,5 @@
+Actions:Enables interactivity
+Updated :Alters page without reloading4
+Events:Responds to user actions
+Data :Fetches and sends info to server
+javascript runs at client side in the browser
